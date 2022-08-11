@@ -1,0 +1,2 @@
+# Project-Management
+ASP.NET CORE 5.0 MVC Project for the Internet Programming Lesson  This project aims to provide project management with projects and boards (like sub-projects) within the project, inspired by the working logic of project management applications. There can be lists in each board and also each list can have works. Status and deadline of each work can be updated. Also status of work can be selected and be changed later.
